@@ -1,3 +1,3 @@
 
-FROM hshar/webapp
+FROM syampraveen/newsaiimage
 ADD ./var/www/html
