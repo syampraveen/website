@@ -1,3 +1,3 @@
 
 FROM syampraveen/newsaiimage
-ADD ./var/www/html
+ADD . /var/www/html
